@@ -8,11 +8,7 @@
       "title": "New step",
       "key": "Newstep",
       "label_definition_ids": [],
-      "action_definition_ids": [
-        "nPbBev79-dzx",
-        "_2uEcNPLkd2M",
-        "Bjsysu0VNVMJ"
-      ],
+      "action_definition_ids": [],
       "track_definition_id": "xO-4ZAWByKcT",
       "coordinates": {
         "x": 432,
