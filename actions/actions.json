@@ -1,0 +1,84 @@
+[
+  {
+    "type": "action",
+    "action": {
+      "_key": "nPbBev79-dzx",
+      "definition_id": "nPbBev79-dzx",
+      "title": "Checklist",
+      "step_definition_id": "cbhE2JGiUqsg",
+      "stakeholder_definition_ids": [
+        "zJ_wFE9MiVjy"
+      ],
+      "location_definition_ids": [],
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:18:07.663Z"
+      },
+      "type": "checklist",
+      "checklist": [
+        "Check1",
+        "check2",
+        "check3"
+      ],
+      "last_updated": {
+        "date": "2023-12-13T01:18:13.508Z",
+        "user_id": "X_LD66D4d4lmm3A1I3IWM"
+      }
+    }
+  },
+  {
+    "type": "action",
+    "action": {
+      "_key": "Bjsysu0VNVMJ",
+      "definition_id": "Bjsysu0VNVMJ",
+      "title": "Calculation",
+      "step_definition_id": "cbhE2JGiUqsg",
+      "stakeholder_definition_ids": [],
+      "location_definition_ids": [],
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:18:24.584Z"
+      },
+      "type": "calculation",
+      "calculation_inputs": [
+        {
+          "calculation_input_id": "weight",
+          "data_point_definition_id": "Y0W6eP3O8bE9"
+        },
+        {
+          "calculation_input_id": "height",
+          "data_point_definition_id": "uhDwKh-zAtVd"
+        }
+      ],
+      "last_updated": {
+        "date": "2023-12-13T01:19:02.484Z",
+        "user_id": "X_LD66D4d4lmm3A1I3IWM"
+      },
+      "calculation_definition_id": "bmi"
+    }
+  },
+  {
+    "type": "action",
+    "action": {
+      "_key": "_2uEcNPLkd2M",
+      "definition_id": "_2uEcNPLkd2M",
+      "title": "Form",
+      "step_definition_id": "cbhE2JGiUqsg",
+      "stakeholder_definition_ids": [
+        "7f0KSxNUtMu_"
+      ],
+      "location_definition_ids": [],
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:18:38.859Z"
+      },
+      "type": "form",
+      "last_updated": {
+        "date": "2023-12-13T01:18:52.020Z",
+        "user_id": "X_LD66D4d4lmm3A1I3IWM"
+      },
+      "form_display_mode": "conversational",
+      "form_definition_id": "SfTJhXTtJJa6"
+    }
+  }
+]

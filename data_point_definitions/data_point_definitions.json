@@ -1,0 +1,444 @@
+[
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "xlG9gThpX7EB",
+      "definition_id": "xlG9gThpX7EB",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "patient_id",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "patient_id"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "TGAv6-WwhxYm",
+      "definition_id": "TGAv6-WwhxYm",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "patient_code",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "patient_code"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "a6ro87UwIO88",
+      "definition_id": "a6ro87UwIO88",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "last_name",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "last_name"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "EOGjTOAeOppd",
+      "definition_id": "EOGjTOAeOppd",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "national_registry_number",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "national_registry_number"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "bDhfpBJcwv6M",
+      "definition_id": "bDhfpBJcwv6M",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "first_name",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "first_name"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "VpmlH4K4SOHf",
+      "definition_id": "VpmlH4K4SOHf",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "birth_date",
+      "valueType": "date",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "birth_date"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "WWdlWs5ebfxq",
+      "definition_id": "WWdlWs5ebfxq",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "phone",
+      "valueType": "telephone",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "phone"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "5-0zUAWo4CEA",
+      "definition_id": "5-0zUAWo4CEA",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "email",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "email"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "NDH1DGYNDAdn",
+      "definition_id": "NDH1DGYNDAdn",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "mobile_phone",
+      "valueType": "telephone",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "mobile_phone"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "FrRqSnBxw7I3",
+      "definition_id": "FrRqSnBxw7I3",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "address.street",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "address.street"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "y53ORD0VUdn2",
+      "definition_id": "y53ORD0VUdn2",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "sex",
+      "valueType": "number",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "sex"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "Zgyzjjk4uim1",
+      "definition_id": "Zgyzjjk4uim1",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "address.state",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "address.state"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "RoZnF52kd32I",
+      "definition_id": "RoZnF52kd32I",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "address.city",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "address.city"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "is5OQ0cHdW3e",
+      "definition_id": "is5OQ0cHdW3e",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "address.country",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "address.country"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "7vVC83DOpA_f",
+      "definition_id": "7vVC83DOpA_f",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "address.zip",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "address.zip"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "MwbHH7yxhraD",
+      "definition_id": "MwbHH7yxhraD",
+      "source_definition_id": "vZJE_m5CTF1A",
+      "category": "patient_profile",
+      "key": "preferred_language",
+      "valueType": "string",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.592Z"
+      },
+      "qualified_key": "preferred_language"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "xO-4ZAWByKcT-ACTIVATION",
+      "definition_id": "xO-4ZAWByKcT-ACTIVATION",
+      "key": "ActivationDate",
+      "source_definition_id": "xO-4ZAWByKcT",
+      "category": "track",
+      "valueType": "date",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.524Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.524Z"
+      },
+      "qualified_key": "Defaulttrack.ActivationDate"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "xO-4ZAWByKcT-COMPLETION",
+      "definition_id": "xO-4ZAWByKcT-COMPLETION",
+      "key": "CompletionDate",
+      "source_definition_id": "xO-4ZAWByKcT",
+      "category": "track",
+      "valueType": "date",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.524Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.524Z"
+      },
+      "qualified_key": "Defaulttrack.CompletionDate"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "cbhE2JGiUqsg-ACTIVATION",
+      "definition_id": "cbhE2JGiUqsg-ACTIVATION",
+      "key": "ActivationDate",
+      "source_definition_id": "cbhE2JGiUqsg",
+      "category": "step",
+      "valueType": "date",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:45.059Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:45.059Z"
+      },
+      "qualified_key": "Newstep.ActivationDate"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "cbhE2JGiUqsg-COMPLETION",
+      "definition_id": "cbhE2JGiUqsg-COMPLETION",
+      "key": "CompletionDate",
+      "source_definition_id": "cbhE2JGiUqsg",
+      "category": "step",
+      "valueType": "date",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:45.059Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:45.059Z"
+      },
+      "qualified_key": "Newstep.CompletionDate"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "Y0W6eP3O8bE9",
+      "definition_id": "Y0W6eP3O8bE9",
+      "source_definition_id": "SfTJhXTtJJa6",
+      "category": "form",
+      "key": "",
+      "valueType": "number",
+      "possibleValues": [],
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-11T20:25:46.695Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-11T20:25:46.695Z"
+      },
+      "qualified_key": "bmiform.weight"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "uhDwKh-zAtVd",
+      "definition_id": "uhDwKh-zAtVd",
+      "source_definition_id": "SfTJhXTtJJa6",
+      "category": "form",
+      "key": "",
+      "valueType": "number",
+      "possibleValues": [],
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-11T20:25:46.695Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-11T20:25:46.695Z"
+      },
+      "qualified_key": "bmiform.height"
+    }
+  }
+]

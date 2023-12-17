@@ -1,0 +1,18 @@
+[
+  {
+    "type": "pathway",
+    "pathway": {
+      "_key": "vZJE_m5CTF1A",
+      "definition_id": "vZJE_m5CTF1A",
+      "title": "HiCareFlow",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.478Z"
+      },
+      "last_updated": {
+        "date": "2023-12-17T20:08:37.759Z",
+        "user_id": "X_LD66D4d4lmm3A1I3IWM"
+      }
+    }
+  }
+]

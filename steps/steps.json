@@ -1,0 +1,31 @@
+[
+  {
+    "type": "step",
+    "step": {
+      "_key": "cbhE2JGiUqsg",
+      "type": "step",
+      "definition_id": "cbhE2JGiUqsg",
+      "title": "New step",
+      "key": "Newstep",
+      "label_definition_ids": [],
+      "action_definition_ids": [
+        "nPbBev79-dzx",
+        "_2uEcNPLkd2M",
+        "Bjsysu0VNVMJ"
+      ],
+      "track_definition_id": "xO-4ZAWByKcT",
+      "coordinates": {
+        "x": 432,
+        "y": 288
+      },
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:45.059Z"
+      },
+      "last_updated": {
+        "date": "2023-12-13T01:18:38.866Z",
+        "user_id": "X_LD66D4d4lmm3A1I3IWM"
+      }
+    }
+  }
+]

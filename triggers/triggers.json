@@ -1,0 +1,23 @@
+[
+  {
+    "type": "trigger",
+    "trigger": {
+      "_key": "W87th74s5g0K",
+      "definition_id": "W87th74s5g0K",
+      "pathway_id": "vZJE_m5CTF1A",
+      "target_id": "xO-4ZAWByKcT",
+      "target_type": "track",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.551Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.572Z"
+      },
+      "settings": {
+        "type": "pathway_started"
+      }
+    }
+  }
+]

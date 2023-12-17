@@ -1,0 +1,27 @@
+[
+  {
+    "type": "track",
+    "track": {
+      "_key": "xO-4ZAWByKcT",
+      "definition_id": "xO-4ZAWByKcT",
+      "title": "Default track",
+      "key": "Defaulttrack",
+      "start_coordinates": {
+        "x": 250,
+        "y": 250
+      },
+      "end_coordinates": {
+        "x": 800,
+        "y": 250
+      },
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.524Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-13T01:17:41.524Z"
+      }
+    }
+  }
+]
