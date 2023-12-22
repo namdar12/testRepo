@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message",
+    "message": {
+      "_key": "1E-Y3naAsi8C",
+      "definition_id": "1E-Y3naAsi8C",
+      "body": null,
+      "dynamic_variable_definition_ids": null,
+      "html_body": null,
+      "attachments": null,
+      "format": null,
+      "subject": "Hello",
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-22T01:05:03.459Z"
+      },
+      "last_updated": {
+        "date": "2023-12-22T01:05:09.719Z",
+        "user_id": "X_LD66D4d4lmm3A1I3IWM"
+      }
+    }
+  }
+]

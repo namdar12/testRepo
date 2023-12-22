@@ -2,17 +2,6 @@
   {
     "type": "stakeholder",
     "stakeholder": {
-      "_key": "zJ_wFE9MiVjy",
-      "definition_id": "zJ_wFE9MiVjy",
-      "label": {
-        "en": "Cardiologist"
-      },
-      "clinical_app_role": "Caregiver"
-    }
-  },
-  {
-    "type": "stakeholder",
-    "stakeholder": {
       "_key": "7f0KSxNUtMu_",
       "definition_id": "7f0KSxNUtMu_",
       "label": {

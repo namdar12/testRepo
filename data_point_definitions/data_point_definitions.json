@@ -398,5 +398,47 @@
       },
       "qualified_key": "Newstep.CompletionDate"
     }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "Y0W6eP3O8bE9",
+      "definition_id": "Y0W6eP3O8bE9",
+      "source_definition_id": "SfTJhXTtJJa6",
+      "category": "form",
+      "key": "",
+      "valueType": "number",
+      "possibleValues": [],
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-11T20:25:46.695Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-11T20:25:46.695Z"
+      },
+      "qualified_key": "bmiform.weight"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "uhDwKh-zAtVd",
+      "definition_id": "uhDwKh-zAtVd",
+      "source_definition_id": "SfTJhXTtJJa6",
+      "category": "form",
+      "key": "",
+      "valueType": "number",
+      "possibleValues": [],
+      "created": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-11T20:25:46.695Z"
+      },
+      "last_updated": {
+        "user_id": "X_LD66D4d4lmm3A1I3IWM",
+        "date": "2023-12-11T20:25:46.695Z"
+      },
+      "qualified_key": "bmiform.height"
+    }
   }
 ]
